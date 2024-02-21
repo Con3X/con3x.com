@@ -1,7 +1,8 @@
 /*!
-* Start Bootstrap - Agency v7.0.12 (https://startbootstrap.com/theme/agency)
-* Copyright 2013-2023 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE)
+* Start Bootstrap - Con3X Website v7.0.12 (https://con3x.com)
+* Copyright 2024-2024 Con3X
+* Copyright 2013-2024 Start Bootstrap
+* Licensed under MIT (https://github.com/StartBootstrap/con3x.com/blob/master/LICENSE)
 */
 //
 // Scripts

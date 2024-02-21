@@ -35,7 +35,8 @@ module.exports = function renderSCSS() {
 
 const entryPoint = `/*!
 * Start Bootstrap - ${packageJSON.title} v${packageJSON.version} (${packageJSON.homepage})
-* Copyright 2013-${new Date().getFullYear()} ${packageJSON.author}
+* Copyright 2024-${new Date().getFullYear()} ${packageJSON.author}
+* Copyright 2013-2024 Start Bootstrap
 * Licensed under ${packageJSON.license} (https://github.com/StartBootstrap/${packageJSON.name}/blob/master/LICENSE)
 */
 @import "${stylesPath}"
